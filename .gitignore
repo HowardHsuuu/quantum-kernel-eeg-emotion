@@ -1,0 +1,7 @@
+/data
+/paper
+/results_*
+/*results
+/__pycache__
+/figures
+*.sh
